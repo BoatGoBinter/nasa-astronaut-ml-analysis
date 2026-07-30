@@ -1,6 +1,6 @@
 # NASA Astronaut Selection & Career Trends
 
-This is a data science project analyzing how NASA astronaut demographics have shifted over time, and whether educational or military background predicts career outcomes like mission count and time spent in space. 
+This is a data science project analyzing how NASA astronaut demographics have shifted over time, and whether educational or military background predicts career outcomes like mission count and time spent in space. Done at UNC Chapel Hill with 4 other team members.
 
 ## Research Questions
 
